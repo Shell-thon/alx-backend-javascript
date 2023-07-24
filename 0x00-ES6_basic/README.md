@@ -5,6 +5,9 @@ For this project, we expect you to look at these concepts:
 - Modern Javascript
 - Software Linter
 
+![image](https://github.com/Shell-thon/alx-backend-javascript/assets/113628692/3588a9ee-497a-412f-add1-7b35f7f34df1)
+
+
 ## Resources
 Read or watch:
 - [ECMAScript 6 - ECMAScript 2015](https://link-to-resource)
