@@ -11,10 +11,10 @@ For this project, we expect you to look at these concepts:
 ## Resources
 Read or watch:
 - [ECMAScript 6 - ECMAScript 2015](https://link-to-resource)
-- Statements and declarations
-- Arrow functions
-- Default parameters
-- Rest parameter
+- [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+- [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+- [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - [Javascript ES6 — Iterables and Iterators](https://link-to-resource)
 
 ## Learning Objectives
@@ -36,8 +36,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should use the js extension
-- Your code will be tested using the Jest Testing Framework
-- Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
+- [Your code will be tested using the Jest Testing Framework](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q)
+- [Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q)
 - All of your functions must be exported
 
 ### Setup
