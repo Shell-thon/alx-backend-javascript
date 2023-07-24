@@ -36,8 +36,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should use the js extension
-- [Your code will be tested using the Jest Testing Framework](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q)
-- [Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q)
+- Your code will be tested using the [Jest Testing Framework](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q)
+- Your code will be analyzed using the linter [ESLint](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q) along with specific rules that we’ll provide
 - All of your functions must be exported
 
 ### Setup
