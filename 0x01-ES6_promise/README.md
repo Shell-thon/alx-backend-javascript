@@ -1,6 +1,3 @@
-Sure, here's the raw markdown code for the provided content:
-
-```markdown
 # 0x01. ES6 Promises
 ## Javascript ES6
 
@@ -79,5 +76,4 @@ And don’t forget to run $ npm install when you have the package.json.
   "firstName": "Guillaume",
   "lastName": "Salva"
 }
-```
 ```
